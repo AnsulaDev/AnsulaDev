@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AnsulaDev
-- 👀 I’m interested in full stack web development and indie game development.
-- 🌱 I’m currently learning  full stack web development and unity game development
-- 📫 How to reach me(ansuloari88@gmail.com) .
+- 🌱 I’m currently learning  full stack  development and unity game development.
 - ⚡ Fun fact:I love singing ,i love playing video games and I love to play guitar .
 
 <!---
