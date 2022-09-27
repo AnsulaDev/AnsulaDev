@@ -1,7 +1,7 @@
 
 [![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://github.com/AnsulaDev)
 <h1 align="center">Hi 👋, I'm AnsulaDev</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://www.bhartiyatech.com/assets/img/job-opening-large.gif" alt="ansuladev" /> </p>
 
