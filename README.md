@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ansuladev.github.io/cv/](https://ansuladev.github.io/cv/)
 
-- ⚡ Fun fact **I love singing ,I love playing video games and I love to play guitar .**
+- ⚡ Fun fact **I love singing ,I always like to learn new things and I love to play guitar .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
