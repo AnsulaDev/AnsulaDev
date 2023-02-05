@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **full stack web development and unity game development.**
 
-- 👨‍💻 All of my projects are available at [https://ansuladev.github.io/cv/](https://ansuladev.github.io/cv/)
+- 👨‍💻 All of my projects are available at (https://ansuladev.github.io/portfolio/)
 
 - ⚡ Fun fact **I love singing ,I always like to learn new things and I love to play guitar .**
 
