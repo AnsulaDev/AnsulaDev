@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://www.bhartiyatech.com/assets/img/job-opening-large.gif" alt="ansuladev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansuladev" alt="ansuladev" /></a> </p>
 
 - 🌱 I’m currently learning **full stack web development and unity game development.**
 
