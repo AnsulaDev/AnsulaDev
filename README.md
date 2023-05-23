@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://www.bhartiyatech.com/assets/img/job-opening-large.gif" alt="ansuladev" /> </p>
 
 
-- 🌱 I’m currently learning **full stack web development and unity game development.**
+- 🌱 I’m currently learning **about microservices.**
 
 - 👨‍💻 All of my projects are available at (https://github.com/AnsulaDev?tab=repositories)
 
